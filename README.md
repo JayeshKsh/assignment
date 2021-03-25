@@ -1,6 +1,6 @@
 # assignment
-First Step: go to react-ui dirctory by 
-cd react-ui
+First Step: go to react-app-ui dirctory by 
+cd react-app-ui
 then, npm install
 after successfull start
 npm start
