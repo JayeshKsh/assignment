@@ -1,11 +1,13 @@
 # assignment
-##First Step:###go to react-app-ui dirctory by 
+##First Step:
+go to react-app-ui dirctory by 
 cd react-app-ui
 then, npm install
 after that
 npm start
 
-##Second Step:## go to service dirctory by 
+##Second Step: 
+go to service dirctory by 
 cd service/
 then ./gradlew bootRun
 
